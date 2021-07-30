@@ -1,0 +1,37 @@
+body {
+    background-color: aqua;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: fantasy;
+    color: blue;
+    border-style: solid;
+    border-width: 4px;
+    border-color: blue;
+    background-color: greenyellow;
+    
+}
+#family_member_img {
+    height: 400px;
+    border-style: solid;
+    border-width: 4px;
+
+}
+#family_members_name {
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 24px;
+    color: green;
+}
+#next {
+    background-color: #EF9A9A;
+    font-weight: bolder;
+    font-size: 20px;
+    color: blue;
+    font-variant: small-caps;
+    border-width: 4px;
+    border-style: solid;
+    border-color: blue;
+}
